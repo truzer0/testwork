@@ -1,2 +1,3 @@
-# testwork
-Nobody
+Команда apt update обновляет список доступных пакетов, загружая информацию о последних версиях из репозиториев. Команда apt upgrade фактически обновляет установленные пакеты до новых версий, используя информацию, полученную после apt update
+ss -tuln | grep :80 || netstat -tuln | grep :80
+ping, traceroute, dig, curl, nc, telnet 
